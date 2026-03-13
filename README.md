@@ -6,6 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 *Sistema de gerenciamento de catálogo de streaming com motor de recomendação / Streaming catalog management system with recommendation engine*
 
